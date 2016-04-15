@@ -1,0 +1,7 @@
+<h1> <a href="recipes"> What's your favorite recipe? </a></h2>
+<h3>{{recipes.length}} recipes </h3>
+{{#each recipes as |recipe index|}}
+<h3>
+  <a href="/recipes/{{recipe.name}}">{{recipe.name}}</a>
+</h3>
+{{/each}}
