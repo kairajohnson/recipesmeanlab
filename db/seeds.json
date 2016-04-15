@@ -1,17 +1,17 @@
 [
   {
-  "name": "Baked Macoroni and Cheese",
-  "recipe": "for one box of macoroni: \n 3 bags of sharp chedder cheese \n 1 egg \n one can of evaporated milk \n salt and pepper",
+  "name": "Macoroni and Cheese",
+  "recipe": "3 bags of sharp chedder cheese, 1 egg, one can of evaporated milk, salt and pepper",
   "image": "http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2013/10/3/1/FO1E25_Macaroni-and-Cheese-1_s4x3.jpg.rend.sniipadlarge.jpeg"
   },
 
-  {"name": "Collard/Kale Greens",
-   "recipe": "Fresh cut collard or Kale greens \n smoked turkey necks \n Onions to your liking \n salt and peper to taste",
+  {"name": "Collard Greens",
+   "recipe": "Fresh cut collard or Kale greens, smoked turkey necks, Onions to your liking, salt and peper to taste",
    "image": "http://3.bp.blogspot.com/-TK5MF3pXwFE/Vnl1UiKP7HI/AAAAAAABkB4/QxLv8WUvZVI/s1600/DSC05184.jpg"
   },
 
   {"name": "Fried Chicken",
-   "recipe":"beat egg and mix chicken in it for coating \n season with spikes season all, cayane pepper, and garlic powder \n coat with flour and fry",
+   "recipe": "beat egg and mix chicken in it for coating,  season with spikes season all, cayane pepper, and garlic powder, coat with flour and fry",
    "image": "https://rawkandrolljunkie.files.wordpress.com/2015/05/southern-fried-chicken.jpg"
   }
 ]
