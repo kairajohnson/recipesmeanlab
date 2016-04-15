@@ -21,7 +21,16 @@ res.render("recipes-index", {
 });
 });
 
-app.get("/recipes/:name")
+app.get("/recipes/:name", function(req, res){
+var recipeOutput;
+db.recipes.forEach(function(recipe){
+  recipeOutput = recipe;
+})
+
+res.render("recipes-show",{
+  recipe: recipeOutput
+});
+});
 
 app.listen(3001, function(){
   console.log("we're in business");

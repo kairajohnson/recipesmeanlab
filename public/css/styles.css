@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+.recipe_background {
+  background-color: white;
+  width: 500px;
+  height: auto;
+}
